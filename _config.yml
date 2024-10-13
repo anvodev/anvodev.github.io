@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anvo.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anvodev
 github_username: anvodev
+google_analytics: G-TNEVY2R8Q9
 
 # Build settings
 theme: minima
