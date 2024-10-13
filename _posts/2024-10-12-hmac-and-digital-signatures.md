@@ -2,7 +2,7 @@
 layout: post
 title: 'HMAC and Digital Signatures'
 date: 2024-10-12 16:35:57 +0700
-categories: ruby
+categories: dev
 ---
 
 **HMAC** stands for **Hash-based Message Authentication Code**, it is a symmetric, which mean there is only one key (for example API secret key) that both parties use to hash and verify messages.
